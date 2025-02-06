@@ -47,4 +47,4 @@ For any questions or feedback, please contact [your email address].
 
 ## Screenshot
 
-![Homepage Screenshot](https://adityabhimwal.github.io/Weather_APP/screenshot.png)
+![Homepage Screenshot](./image.png)
